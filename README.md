@@ -2,7 +2,7 @@
 
 For UR ROV (2021)
 
-![PCB_OUTPUT_3D](https://github.com/winnieay/Camera_Board/assets/88380759/be1d5944-27f7-4b32-81b0-25c7c1093007)
+
 
 
 Camera and Peripheral Daughter Board 
