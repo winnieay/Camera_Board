@@ -3,7 +3,7 @@
 ## For UR ROV (2021) ##
 
 <p align="center">
-    <img height="300" src="https://github.com/winnieay/Camera_Board/assets/88380759/3eb8b0c0-2332-4f01-b2d4-7b90b4fae4ab">
+    <img height="300" src="https://github.com/winnieay/Camera_Board/assets/88380759/3eb8b0c0-2332-4f01-b2d4-7b90b4fae4ab"><br/>
     <img height="300" src="https://github.com/winnieay/Camera_Board/assets/88380759/75bd4840-9fc6-4d1d-935d-71a0a5eff765">
 </p>
 
